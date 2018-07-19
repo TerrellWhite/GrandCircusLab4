@@ -1,0 +1,7 @@
+C:\Users\jusja\source\repos\GrandCircus_Lab_4\GrandCircus_Lab_4\bin\Debug\GrandCircus_Lab_4.exe.config
+C:\Users\jusja\source\repos\GrandCircus_Lab_4\GrandCircus_Lab_4\bin\Debug\GrandCircus_Lab_4.exe
+C:\Users\jusja\source\repos\GrandCircus_Lab_4\GrandCircus_Lab_4\bin\Debug\GrandCircus_Lab_4.pdb
+C:\Users\jusja\source\repos\GrandCircus_Lab_4\GrandCircus_Lab_4\obj\Debug\GrandCircus_Lab_4.csprojAssemblyReference.cache
+C:\Users\jusja\source\repos\GrandCircus_Lab_4\GrandCircus_Lab_4\obj\Debug\GrandCircus_Lab_4.csproj.CoreCompileInputs.cache
+C:\Users\jusja\source\repos\GrandCircus_Lab_4\GrandCircus_Lab_4\obj\Debug\GrandCircus_Lab_4.exe
+C:\Users\jusja\source\repos\GrandCircus_Lab_4\GrandCircus_Lab_4\obj\Debug\GrandCircus_Lab_4.pdb
